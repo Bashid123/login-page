@@ -1,0 +1,53 @@
+.background-container{
+    background-color: darkturquoise;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.login-container{
+    width: 430px;
+    height: 300px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    color: darkturquoise;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+
+}
+.formElements{
+    margin:20px auto;
+}
+.name{
+    color: darkturquoise;
+    margin-right: 10px;
+}
+.email{
+    color:darkturquoise;
+    margin-right: 10px;
+}
+.password{
+    color:darkturquoise;
+    margin-right: 40px;
+}
+.button{
+    color:darkturquoise;
+    height: 35px;
+    width: 70px;
+}
+.buttons-container{
+    text-align: center;
+}
+.inputElwidth{
+    width: 200px;
+}
